@@ -20,6 +20,6 @@ public class ShopManager : MonoBehaviour {
         }
 	}
 	
-	
+	//2018年3月25日.
 
 }
